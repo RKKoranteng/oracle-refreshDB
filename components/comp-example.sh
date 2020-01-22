@@ -1,14 +1,13 @@
 #!/bin/bash
-# Copyright (c) 2020 RKKoranteng.com
+# Copyright (c) 2020 Richard Koranteng
+#
+# URL: RKKoranteng.com
 #
 # AUTHOR: Richard Koranteng
 #
 # NAME: comp-example.sh
 #
 # DESCCRIPTION: component used for demo
-#
-# CHANGE:
-# 11/22/2019	initial development (version 0.2.1)
 #
 # SUMMARY OF STEPS:
 # 1. drop application schema (KOFI)
