@@ -1,5 +1,5 @@
 # oracle-refreshDB
-refreshDB is a work-in-progress project to help Oracle DBA's consolidate refresh operations
+refreshDB is a work-in-progress project to help Oracle DBA's consolidate database refresh/import operations<br/>
 
 ### What's refreshDB
 refreshDB started as a work project whereby I wanted to consolidate
@@ -23,9 +23,8 @@ utility and easy to use utility. Hope you enjoy it!<br/><br/>
 | images         | location of images |
 | inventory      | location of inventory and config files |
 | modules        | location of functions |
-
-
-### <br/><br/>Adding a new database refresh process
+<br/>
+### Adding a new database refresh process
 Adding  a new refresh process is simple.<br/>
 
  **Step 1:** add your specifc refresh script to $components$ directory<br/>
