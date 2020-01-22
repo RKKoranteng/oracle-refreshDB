@@ -24,6 +24,7 @@ utility and easy to use utility. Hope you enjoy it!<br/><br/>
 | inventory      | location of inventory and config files |
 | modules        | location of functions |
 <br/>
+
 ### Adding a new database refresh process
 Adding  a new refresh process is simple.<br/>
 
