@@ -1,5 +1,7 @@
 #!/bin/bash
-# Copyright (c) 2020 RKKoranteng.com
+# Copyright (c) 2020 Richard Koranteng
+# 
+# URL: RKKoranteng.com
 #
 # AUTHOR: Richard Koranteng
 #
